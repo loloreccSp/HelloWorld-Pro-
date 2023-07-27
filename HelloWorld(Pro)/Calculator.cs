@@ -15,7 +15,6 @@ namespace Lesson
         Degree = '^'
     }
 
-
     public class Calculator
     {
         public double first_num;
