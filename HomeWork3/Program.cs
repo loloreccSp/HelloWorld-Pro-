@@ -9,7 +9,6 @@ namespace Homework3
 
     public class Array : IOutput, IMath, ISort
     {
-        //public int[] numbers { get; set; }
         public List<int> numbers { get; set; }
         public Array(List<int> numbers)
         {
